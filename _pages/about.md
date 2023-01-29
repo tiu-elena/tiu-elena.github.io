@@ -26,7 +26,6 @@ Supervisors
 
 Monique Snoeck is full professor at the KU Leuven, [Research Center for Management Informatics (LIRIS)](https://feb.kuleuven.be/research/decision-sciences-and-information-management/liris/liris), and visiting professor at the UNamur. Her research focuses on enterprise modeling, requirements engineering, model-driven engineering and business process management. Her main guiding research themes are the integration of different modelling approaches into a comprehensive approach, the quality of models through formal grounding, model to code transformations and educational aspects of conceptual modelling. She has published over 80 peer-reviewed papers.
 
-Prof. dr Snoeck can be contacted at monique.snoeck@kuleuven.be.
 
 **Prof. dr. Bart Baesens**
 
@@ -41,4 +40,4 @@ International collaborations
 
 In my research, I extensively collaborate with the universities from all over the world. In particular, current collaborations include:
 * Western university, London, Ontario, Canada
-* Reykjavik university, Reykjavík, Iceland
+* Reykjavík university, Reykjavík, Iceland
