@@ -17,20 +17,29 @@ Education
 
 Work experience
 ======
-* May 2018 - September 2019: Testing Specialist
-  * Kaspersky
-  * Duties included: - development of test cases and test suites for Kaspersky Lab software testing;
-                     - test environment preparation;
-                     - manual testing of Web-applications, Android- and iOS-base applications, Windows and Linux applications;
-                     - writing automated test scripts.
+* May 2018 - September 2019: Testing Specialist @ Kaspersky
+  * Duties included:
+    * development of test cases and test suites for Kaspersky Lab software testing;
+    * test environment preparation;
+    * manual testing of Web-applications, Android- and iOS-base applications, Windows and Linux applications;
+    * writing automated test scripts.
 
 
-* August 2020 - April 2021: Data Analyst
-  * Rostelecom
-  * Duties included: - data and analytics requirements development
-                     - preparation of analytical reports (Python (matplotlib, numpy,pandas, seaborn) and SQL)
-                     - development of presentations with product metrics for internal stakeholders (PowerPoint + thinkcell)
-                     - development of dashboards (Python: Flask + Dash frameworks)
+* August 2020 - April 2021: Data Analyst @ Rostelecom
+  * Duties included:
+    * data and analytics requirements development
+    * preparation of analytical reports (Python (matplotlib, numpy,pandas, seaborn) and SQL)
+    * development of presentations with product metrics for internal stakeholders (PowerPoint + thinkcell)
+    * development of dashboards (Python: Flask + Dash frameworks)
+
+* September 2021 - present: PhD Researcher @ KU Leuven
+  * Duties include:
+    * conducting research on data analysys, machine learning and deep learning applications for business and academics 
+    * academic work including:
+      * teaching assistance 
+      * master theses supervision 
+      
+
   
 Skills
 ======
