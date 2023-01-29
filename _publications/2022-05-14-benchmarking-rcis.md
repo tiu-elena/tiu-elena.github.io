@@ -1,0 +1,15 @@
+---
+title: "Benchmarking conventional outlier detection methods"
+collection: publications
+permalink: /publication/2022-05-14-benchmarking-rcis
+date: 2022-05-14
+venue: 'RCIS 2022 conference'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-05760-1_35'
+citation: 'Tiukhova, E., Reusens, M., Baesens, B., & Snoeck, M. (2022, May). Benchmarking conventional outlier detection methods. In Research Challenges in Information Science: 16th International Conference, RCIS 2022, Barcelona, Spain, May 17–20, 2022, Proceedings (pp. 597-613). Cham: Springer International Publishing.'
+---
+Nowadays, businesses in many industries face an increasing flow of data and information. Data are at the core of the decision-making process, hence it is vital to ensure that the data are of high quality and no noise is present. Outlier detection methods are aimed to find unusual patterns in data and find their applications in many practical domains. These methods employ different techniques, ranging from pure statistical tools to deep learning models that have gained popularity in recent years. Moreover, one of the most popular outlier detection techniques are machine learning models. They have several characteristics which affect the potential of their usefulness in real-life scenarios. The goal of this paper is to add to the existing body of research on outlier detection by comparing the isolation forest, DBSCAN and LOF techniques. Thus, we investigate the research question: which ones of these outlier detection models perform best in practical business applications. To this end, three models are built on 12 datasets and compared using 5 performance metrics. The final comparison of the models is based on the McNemar’s test, as well as on ranks per performance measure and on average. Three main conclusions can be made from the benchmarking study. First, the models considered in this research disagree differently, i.e. their type I and type II errors are not similar. Second, considering the time, AUPRC and sensitivity metrics, the iForest model is ranked the highest. Hence, the iForest model is the best in the cases when time performance is a key consideration as well as when the opportunity costs of not detecting an outlier are high. Third, the DBSCAN model obtains the highest ranking along the F1 score and precision dimensions. That allows us to conclude that if raising many false alarms is not an important concern, the DBSCAN model is the best to employ.
+
+[Download paper here](https://link.springer.com/chapter/10.1007/978-3-031-05760-1_35)
+[Check our poster here](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/56519.png?t=1668072924.9758837)
+
+Recommended citation: Tiukhova, E., Reusens, M., Baesens, B., & Snoeck, M. (2022, May). Benchmarking conventional outlier detection methods. In Research Challenges in Information Science: 16th International Conference, RCIS 2022, Barcelona, Spain, May 17–20, 2022, Proceedings (pp. 597-613). Cham: Springer International Publishing.

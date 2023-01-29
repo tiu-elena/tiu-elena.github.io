@@ -1,9 +1,9 @@
 ---
-title: "Teaching assistant for Architecture and Modelling of Management Information Systems course"
+title: "Teaching assistant for AMMIS course"
 collection: teaching
 type: "Master course"
 permalink: /teaching/2022-semester2-teaching-ammis
-venue: "KU Leuven, LIRIS"
+venue: "KU Leuven"
 date: 2022-02-01
 location: "Leuven, Belgium"
 ---
@@ -14,5 +14,6 @@ Responsibilities
 ======
 
 - Providing support during exercise sessions 
+- LMS page and online course maintainance 
 - Making exercises for the course
 - Correcting exams 

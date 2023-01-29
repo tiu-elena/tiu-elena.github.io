@@ -11,30 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Business Informatics, Higher School of Economics, Moscow, 2019
+* M.S. in Business and Information Systems Engineering, KU Leuven University, 2021
+* Ph.D in Economics, KU Leuven University, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2018 - September 2019: Testing Specialist
+  * Kaspersky
+  * Duties included: - development of test cases and test suites for Kaspersky Lab software testing;
+                     - test environment preparation;
+                     - manual testing of Web-applications, Android- and iOS-base applications, Windows and Linux applications;
+                     - writing automated test scripts.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* August 2020 - April 2021: Data Analyst
+  * Rostelecom
+  * Duties included: - data and analytics requirements development
+                     - preparation of analytical reports (Python (matplotlib, numpy,pandas, seaborn) and SQL)
+                     - development of presentations with product metrics for internal stakeholders (PowerPoint + thinkcell)
+                     - development of dashboards (Python: Flask + Dash frameworks)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data analysis
+  * numpy
+  * pandas 
+  * matplotlib 
+  * scipy 
+  * seaborn
+* Machine learning
+  * scikit-learn 
+* Deep learning 
+  * pytorch (+ pytorch geometric, pytorh geometric-temporal)
+  * Keras
+
 
 Publications
 ======
@@ -54,6 +65,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
