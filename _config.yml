@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Elena Tiukhova"
+  avatar           : "images/profile.png"
   bio              : "Data Scientist, PhD researcher"
   location         : "Leuven, Belgium"
   employer         :
@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  posts:
     output: true
     permalink: /:collection/:path/
   talks:
