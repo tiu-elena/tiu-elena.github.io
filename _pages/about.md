@@ -22,7 +22,7 @@ Monique Snoeck is full professor at the KU Leuven, Research Center for Managemen
 
 **Prof. dr. Bart Baesens**
 
-<img src="/images/foto2.jpg" width="200">
+<img src="/images/foto2.jpg" width="150">
 
 Bart Baesens is a professor of Big Data & Analytics at KU Leuven (Belgium), and a lecturer at the University of Southampton (United Kingdom). He has done extensive research on big data & analytics, credit risk modeling, fraud detection, and marketing analytics. He co-authored more than 250 scientific papers and 10 books some of which have been translated into Chinese, Kazakh and Korean, and sold more than 20,000 copies of these books world-wide. Bart received the OR Society’s Goodeve medal for best JORS paper in 2016 and the EURO 2014 and EURO 2017 award for best EJOR paper. His research is summarized at www.dataminingapps.com. He also regularly tutors, advises and provides consulting support to international firms with respect to their analytics and credit risk management strategy.
 
