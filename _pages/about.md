@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-I am a second-year PhD researcher at the Research Center for Information Systems Engineering (LIRIS) at KU Leuven university, Belgium. My research is focused at the applications of machine learning and deep learning models for solving real business and academic problems. In particular, I am working on the case studies in anomaly detection for different domains and inductries. Anomaly detection provides critical and actionable information in a wide variety of applications. The techniques to detect anomalies range from straightforward manual expert observation to complex models such as decision trees and neural networks. The types of data containing anomalies vary greatly as well, with graph data attracting more and more attention in recent years. Moreover, it is key to understand not only what is predicted as anomaly but also why it is predicted making explainability of the model an important characteristic to consider. Hence, my ongoing research is focused on the following applications of anomaly detections:
+I am a second-year PhD researcher at the Research Center for Information Systems Engineering (LIRIS) at KU Leuven university, Belgium. My research is focused at the applications of machine learning and deep learning models for solving real business and academic problems. 
+
+In particular, I am working on the case studies in anomaly detection for different domains and inductries. Anomaly detection provides critical and actionable information in a wide variety of applications. The techniques to detect anomalies range from straightforward manual expert observation to complex models such as decision trees and neural networks. The types of data containing anomalies vary greatly as well, with graph data attracting more and more attention in recent years. Moreover, it is key to understand not only what is predicted as anomaly but also why it is predicted making explainability of the model an important characteristic to consider. Hence, my ongoing research is focused on the following applications of anomaly detections:
 * benchmarking anomaly detection techniques in terms of their time and detection performanc;
 * applying anomaly detection and eXplainable AI techniques in Education;
 * influencer detection using Dynamic Graph Neural Network;
@@ -22,9 +24,9 @@ Supervisors
 
 ![Monique Snoeck](/images/foto1.png)
 
-Monique Snoeck is full professor at the KU Leuven, Research Center for Management Informatics (LIRIS), and visiting professor at the UNamur. Her research focuses on enterprise modeling, requirements engineering, model-driven engineering and business process management. Her main guiding research themes are the integration of different modelling approaches into a comprehensive approach, the quality of models through formal grounding, model to code transformations and educational aspects of conceptual modelling. She has published over 80 peer-reviewed papers.
+Monique Snoeck is full professor at the KU Leuven, [Research Center for Management Informatics (LIRIS)](https://feb.kuleuven.be/research/decision-sciences-and-information-management/liris/liris), and visiting professor at the UNamur. Her research focuses on enterprise modeling, requirements engineering, model-driven engineering and business process management. Her main guiding research themes are the integration of different modelling approaches into a comprehensive approach, the quality of models through formal grounding, model to code transformations and educational aspects of conceptual modelling. She has published over 80 peer-reviewed papers.
 
-Prof. dr Snoeck can be contacted at monique.snoeck@kuleuven.be
+Prof. dr Snoeck can be contacted at monique.snoeck@kuleuven.be.
 
 **Prof. dr. Bart Baesens**
 
