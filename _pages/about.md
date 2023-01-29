@@ -16,13 +16,13 @@ Supervisors
 
 **Prof. dr. Monique Snoeck**
 
-![Monique Snoeck](/images/foto1.jpg)
+![Monique Snoeck](/images/foto1.png)
 
 Monique Snoeck is full professor at the KU Leuven, Research Center for Management Informatics (LIRIS), and visiting professor at the UNamur. Her research focuses on enterprise modeling, requirements engineering, model-driven engineering and business process management. Her main guiding research themes are the integration of different modelling approaches into a comprehensive approach, the quality of models through formal grounding, model to code transformations and educational aspects of conceptual modelling. She has published over 80 peer-reviewed papers.
 
 **Prof. dr. Bart Baesens**
 
-![Bart Baesens](/images/foto2.jpg)
+<img src="/images/foto2.jpg" width="200">
 
 Bart Baesens is a professor of Big Data & Analytics at KU Leuven (Belgium), and a lecturer at the University of Southampton (United Kingdom). He has done extensive research on big data & analytics, credit risk modeling, fraud detection, and marketing analytics. He co-authored more than 250 scientific papers and 10 books some of which have been translated into Chinese, Kazakh and Korean, and sold more than 20,000 copies of these books world-wide. Bart received the OR Society’s Goodeve medal for best JORS paper in 2016 and the EURO 2014 and EURO 2017 award for best EJOR paper. His research is summarized at www.dataminingapps.com. He also regularly tutors, advises and provides consulting support to international firms with respect to their analytics and credit risk management strategy.
 
