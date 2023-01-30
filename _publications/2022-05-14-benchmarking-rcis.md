@@ -11,5 +11,3 @@ Nowadays, businesses in many industries face an increasing flow of data and info
 
 [Download paper here](https://link.springer.com/chapter/10.1007/978-3-031-05760-1_35)
 [Check our poster here](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/56519.png?t=1668072924.9758837)
-
-Recommended citation: Tiukhova, E., Reusens, M., Baesens, B., & Snoeck, M. (2022, May). Benchmarking conventional outlier detection methods. In Research Challenges in Information Science: 16th International Conference, RCIS 2022, Barcelona, Spain, May 17–20, 2022, Proceedings (pp. 597-613). Cham: Springer International Publishing.

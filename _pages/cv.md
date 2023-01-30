@@ -28,13 +28,13 @@ Work experience
 * August 2020 - April 2021: Data Analyst @ Rostelecom
   * Duties included:
     * data and analytics requirements development
-    * preparation of analytical reports (Python (matplotlib, numpy,pandas, seaborn) and SQL)
+    * preparation of analytical reports (Python (matplotlib, numpy, pandas, seaborn) and SQL)
     * development of presentations with product metrics for internal stakeholders (PowerPoint + thinkcell)
     * development of dashboards (Python: Flask + Dash frameworks)
 
 * September 2021 - present: PhD Researcher @ KU Leuven
   * Duties include:
-    * conducting research on data analysys, machine learning and deep learning applications for business and academics 
+    * conducting research on data analysis, machine learning and deep learning applications for business and academics 
     * academic work including:
       * teaching assistance 
       * master theses supervision 
@@ -52,8 +52,14 @@ Skills
 * Machine learning
   * scikit-learn 
 * Deep learning 
-  * pytorch (+ pytorch geometric, pytorh geometric-temporal)
+  * pytorch (+ pytorch geometric, pytorch geometric-temporal)
   * Keras
+*DevOps/MLOps
+  * Git
+  * WandB
+* Databases
+  *SQL
+  
 
 
 Publications
