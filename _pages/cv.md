@@ -54,11 +54,11 @@ Skills
 * Deep learning 
   * pytorch (+ pytorch geometric, pytorch geometric-temporal)
   * Keras
-*DevOps/MLOps
+* DevOps/MLOps
   * Git
   * WandB
 * Databases
-  *SQL
+  * SQL
   
 
 
