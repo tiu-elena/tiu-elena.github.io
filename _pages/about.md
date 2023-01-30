@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 
-I am a second-year PhD researcher at the Research Center for Information Systems Engineering (LIRIS) at KU Leuven university, Belgium. My research is focused at the applications of machine learning and deep learning models for solving real business and academic problems. 
+I am a second-year PhD researcher at the Research Center for Information Systems Engineering (LIRIS) at KU Leuven university, Belgium. My research is focused at the applications of data analytics for solving real business and academic problems. 
 
-In particular, I am working on the case studies in anomaly detection for different domains and inductries. Anomaly detection provides critical and actionable information in a wide variety of applications. The techniques to detect anomalies range from straightforward manual expert observation to complex models such as decision trees and neural networks. The types of data containing anomalies vary greatly as well, with graph data attracting more and more attention in recent years. Moreover, it is key to understand not only what is predicted as anomaly but also why it is predicted making explainability of the model an important characteristic to consider. Hence, my ongoing research is focused on the following applications of anomaly detections:
-* benchmarking anomaly detection techniques in terms of their time and detection performanc;
+In particular, I am working on the case studies of applying anomaly detection in different domains and industries. Anomaly detection provides critical and actionable information in a wide variety of applications. The techniques to detect anomalies range from straightforward manual expert observation to complex models such as decision trees and neural networks. The types of data containing anomalies vary greatly as well, with graph data attracting more and more attention in recent years. Moreover, it is key to understand not only what is predicted as anomaly but also why it is predicted making explainability of the model an important characteristic to consider. Hence, my ongoing research is focused on the following directions:
+* benchmarking anomaly detection techniques in terms of their time and detection performance;
 * applying anomaly detection and eXplainable AI techniques in Education;
-* influencer detection using Dynamic Graph Neural Network;
+* influencer detection in marketing using Dynamic Graph Neural Network;
 * applying anomaly detection for data quality assurance in credit risk; 
 
 Supervisors 
@@ -24,7 +24,7 @@ Supervisors
 
 ![Monique Snoeck](/images/foto1.png)
 
-Monique Snoeck is full professor at the KU Leuven, [Research Center for Management Informatics (LIRIS)](https://feb.kuleuven.be/research/decision-sciences-and-information-management/liris/liris), and visiting professor at the UNamur. Her research focuses on enterprise modeling, requirements engineering, model-driven engineering and business process management. Her main guiding research themes are the integration of different modelling approaches into a comprehensive approach, the quality of models through formal grounding, model to code transformations and educational aspects of conceptual modelling. She has published over 80 peer-reviewed papers.
+Monique Snoeck holds a PhD in computer science from KU Leuven. She is full professor at the Research Center for Information Systems Engineering (LIRIS), KU Leuven, and visiting professor at the UNamur. She has a strong research track in conceptual modeling, requirements engineering, software architecture, model-driven engineering and business process management. Main guiding research themes are domain modelling, business process modelling, model quality, model-driven engineering, and technology-enhanced learning. Previous research has resulted in the Enterprise Information Systems Engineering approach MERODE, and its companion e-learning and prototyping tool MERLIN and its companion prototyping tool. She is author of 2 books, (co-) author of over 130 peer-reviewed papers. She is associated editor of the BISE journal and (senior) member of the program committee of numerous conferences in the domains of Information Systems such as CAiSE, RCIS, PoEM, EMMSAD, etc.
 
 
 **Prof. dr. Bart Baesens**
