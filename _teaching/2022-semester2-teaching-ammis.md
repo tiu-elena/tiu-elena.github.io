@@ -15,5 +15,6 @@ Responsibilities
 
 - Providing support during exercise sessions 
 - LMS page and online course maintainance 
+- Learning dashboard development and maintainance
 - Making exercises for the course
 - Correcting exams 
