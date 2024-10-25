@@ -9,13 +9,7 @@ redirect_from:
 ---
 
 
-I am a second-year PhD researcher at the Research Center for Information Systems Engineering (LIRIS) at KU Leuven university, Belgium. My research is focused on the applications of data analytics for solving real business and academic problems. 
-
-In particular, I am working on case studies of applying anomaly detection in different domains and industries. Anomaly detection provides critical and actionable information in a wide variety of applications. The techniques to detect anomalies range from straightforward manual expert observation to complex models such as decision trees and neural networks. The types of data containing anomalies vary greatly as well, with graph data attracting more and more attention in recent years. Moreover, it is key to understand not only what is predicted as anomaly but also why it is predicted, making explainability of the model an important characteristic to consider. Hence, my ongoing research is focused on the following projects:
-* benchmarking anomaly detection techniques in terms of their time and detection performance;
-* applying anomaly detection and eXplainable AI techniques in Education;
-* influencer detection in marketing using Dynamic Graph Neural Networks;
-* applying anomaly detection for data quality assurance in credit risk; 
+I am a data scientist with 4+ years of experience specialising in the applications of machine learning (ML), deep learning, and explainable AI (XAI) techniques to solve complex, real-world problems using both structured and unstructured data. My experience spans a wide range of international projects, where I have developed not only technical expertise such as advanced coding, algorithm design, and statistical analysis, but also strong communication, collaboration, and leadership skills. I have a research-driven mindset, which has resulted in several scientific publications in peer-reviewed journals and conferences.
 
 Supervisors 
 ======
@@ -38,6 +32,8 @@ Bart can be contacted at bart@bartbaesens.com. You can also follow @DataMiningap
 International collaborations 
 ======
 
-In my research, I extensively collaborate with the universities from all over the world. In particular, current collaborations include:
+In my research, I extensively collaborated with the universities and companies from all over the world. In particular, these collaborations include:
 * Western university, London, Ontario, Canada
 * Reykjavík university, Reykjavík, Iceland
+* ING Belgium
+* Rappi, Colombia, Bogota
