@@ -25,7 +25,7 @@ Work experience
     * writing automated test scripts.
 
 
-* August 2020 - April 2021: Data Analyst @ Rostelecom
+* August 2020 - May 2021: Data Analyst @ Rostelecom
   * Duties included:
     * data and analytics requirements development
     * preparation of analytical reports (Python (matplotlib, numpy, pandas, seaborn) and SQL)
@@ -68,7 +68,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks \& Blogposts
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
