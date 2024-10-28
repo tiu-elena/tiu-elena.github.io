@@ -1,7 +1,7 @@
 ---
 title: 'Influencer detection with Dynamic GNNs'
 date: 2022-12-25
-permalink: /blog-posts/2022-12-blog-post-1/
+permalink: /posts/2022-12-blog-post-1/
 tags:
   - DyGNN
   - Influencer detection
