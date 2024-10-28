@@ -7,4 +7,4 @@ tags:
   - Influencer detection
 ---
 
-Check out the blogpost about Influencer detection with Dynamic Graph Neural Networks at [DataMiningApps](https://www.dataminingapps.com/2022/12/influencer-detection-with-dynamic-gnns/)
+Check out the blogpost about Influencer detection with Dynamic Graph Neural Networks at [DataMiningApps](https://www.dataminingapps.com/2022/12/influencer-detection-with-dynamic-gnns/) 

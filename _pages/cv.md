@@ -77,7 +77,7 @@ Talks
 Blogposts 
 ======
   <ul>{% for post in site.posts %}
-    {% include archive-single-talk-cv.html %}
+    {% include archive-single.html %}
   {% endfor %}</ul>
 
   
