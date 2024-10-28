@@ -68,11 +68,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks & Blogposts
+Talks 
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
+Blogposts 
+======
+  <ul>{% for post in site.posts %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
   
 Teaching
 ======
