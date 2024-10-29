@@ -11,7 +11,7 @@ redirect_from:
 
 I am a data scientist with 4+ years of experience specialising in the applications of machine learning (ML), deep learning, and explainable AI (XAI) techniques to solve complex, real-world problems using both structured and unstructured data. My experience spans a wide range of international projects, where I have developed not only technical expertise such as advanced coding, algorithm design, and statistical analysis, but also strong communication, collaboration, and leadership skills. I have a research-driven mindset, which has resulted in several scientific publications in peer-reviewed journals and conferences.
 
-Supervisors 
+<!-- Supervisors 
 ======
 
 **Prof. dr. Monique Snoeck**
@@ -36,4 +36,4 @@ In my research, I extensively collaborated with the universities and companies f
 * Western university, London, Ontario, Canada
 * Reykjavík university, Reykjavík, Iceland
 * ING Belgium
-* Rappi, Colombia, Bogota
+* Rappi, Colombia, Bogota -->
