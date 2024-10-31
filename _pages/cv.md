@@ -11,31 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in Business Informatics, Higher School of Economics, Moscow, 2019
-* M.S. in Business and Information Systems Engineering, KU Leuven University, 2021
 * Ph.D in Economics, KU Leuven University, 2025 (expected)
+* M.S. in Business and Information Systems Engineering, KU Leuven University, 2021
+* B.S. in Business Informatics, Higher School of Economics, Moscow, 2019
+
 
 Work experience
 ======
-* May 2018 - September 2019: Testing Specialist @ Kaspersky
-  * Duties included:
-    * business requirements analysis;
-    * test cases development;
-    * test environment preparation;
-    * manual testing of Web-applications, Android- and iOS-base applications, Windows and Linux applications;
-    * web applications test automation (Selenium).
-
-* August 2020 - May 2021: Data Analyst @ Rostelecom
-  * Duties included:
-    * data and analytics requirements development
-    * preparation of analytical reports (Python (matplotlib, numpy, pandas, seaborn) and SQL)
-    * development of analytical reports and dashboards for internal stakeholders (Python: Flask + Dash frameworks; thinkcell in PowerPoint)
-
-* November 2022 - August 2024: Data Scientist @ ING Belgium
-  * Duties include:
-    * development of ML and XAI models for detecting and explaining data quality issues in credit risk management data
-    * development of interactive ML desktop application on top of the ML-XAI solution for non-technical stakeholders 
-
 * September 2021 - present: PhD Researcher @ KU Leuven
   * Duties include:
     * working on lutliple international projects with the university and third parties such as banks and tech companies:
@@ -45,9 +27,27 @@ Work experience
     * academic work including:
       * teaching assistance 
       * master theses supervision 
-      
 
-  
+* November 2022 - August 2024: Data Scientist @ ING Belgium
+  * Duties include:
+    * development of ML and XAI models for detecting and explaining data quality issues in credit risk management data
+    * development of interactive ML desktop application on top of the ML-XAI solution for non-technical stakeholders 
+
+* August 2020 - May 2021: Data Analyst @ Rostelecom
+  * Duties included:
+    * data and analytics requirements development
+    * preparation of analytical reports (Python (matplotlib, numpy, pandas, seaborn) and SQL)
+    * development of analytical reports and dashboards for internal stakeholders (Python: Flask + Dash frameworks; thinkcell in PowerPoint)
+
+* May 2018 - September 2019: Testing Specialist @ Kaspersky
+  * Duties included:
+    * business requirements analysis;
+    * test cases development;
+    * test environment preparation;
+    * manual testing of Web-applications, Android- and iOS-base applications, Windows and Linux applications;
+    * web applications test automation (Selenium).
+
+
 Skills
 ======
 * Data analysis
@@ -73,7 +73,6 @@ Skills
   * Google Cloud/AWS/Heroku
 * Databases
   * SQL
-  
 
 
 Publications
@@ -93,4 +92,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
