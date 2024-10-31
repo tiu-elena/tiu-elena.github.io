@@ -9,11 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
 * Ph.D in Economics, KU Leuven University, 2025 (expected)
 * M.S. in Business and Information Systems Engineering, KU Leuven University, 2021
 * B.S. in Business Informatics, Higher School of Economics, Moscow, 2019
+
 
 
 Work experience
@@ -48,6 +51,7 @@ Work experience
     * web applications test automation (Selenium).
 
 
+
 Skills
 ======
 * Data analysis
@@ -75,17 +79,22 @@ Skills
   * SQL
 
 
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+
+
 Talks 
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+  
+
   
 Teaching
 ======
