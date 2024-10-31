@@ -19,22 +19,29 @@ Work experience
 ======
 * May 2018 - September 2019: Testing Specialist @ Kaspersky
   * Duties included:
-    * development of test cases and test suites for Kaspersky Lab software testing;
+    * business requirements analysis;
+    * test cases development;
     * test environment preparation;
     * manual testing of Web-applications, Android- and iOS-base applications, Windows and Linux applications;
-    * writing automated test scripts.
-
+    * web applications test automation (Selenium).
 
 * August 2020 - May 2021: Data Analyst @ Rostelecom
   * Duties included:
     * data and analytics requirements development
     * preparation of analytical reports (Python (matplotlib, numpy, pandas, seaborn) and SQL)
-    * development of presentations with product metrics for internal stakeholders (PowerPoint + thinkcell)
-    * development of dashboards (Python: Flask + Dash frameworks)
+    * development of analytical reports and dashboards for internal stakeholders (Python: Flask + Dash frameworks; thinkcell in PowerPoint)
+
+* November 2022 - August 2024: Data Scientist @ ING Belgium
+  * Duties include:
+    * development of ML and XAI models for detecting and explaining data quality issues in credit risk management data
+    * development of interactive ML desktop application on top of the ML-XAI solution for non-technical stakeholders 
 
 * September 2021 - present: PhD Researcher @ KU Leuven
   * Duties include:
-    * conducting research on data analysis, machine learning and deep learning applications for business and academics 
+    * working on lutliple international projects with the university and third parties such as banks and tech companies:
+      * ING Belgium: Applying anomaly detection, XAI and human-computer interaction techniques to optimize data quality in credit risk management
+      * Rappi: Using dynamic graph neural networks to improve influencer prediction in marketing campaigns in a profit-driven way
+      * KU Leuven: Developing learning analytics (including learning dashboards) using anomaly detection and XAI to optimize instructional design and improve student feedback provision
     * academic work including:
       * teaching assistance 
       * master theses supervision 
@@ -51,12 +58,19 @@ Skills
   * seaborn
 * Machine learning
   * scikit-learn 
+  * SHAP
+* Programming 
+  * Python (Flask, Dash, TKinter, OOP)
+  * R
 * Deep learning 
   * pytorch (+ pytorch geometric, pytorch geometric-temporal)
   * Keras
+  * TensorFlow
 * DevOps/MLOps
-  * Git
+  * Git (GitHub, GitLab)
   * WandB
+  * GPU computing 
+  * Google Cloud/AWS/Heroku
 * Databases
   * SQL
   
